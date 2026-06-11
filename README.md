@@ -1,3 +1,8 @@
+Anggota Kelompok:
+Andrea Widi 2408107010083
+Khalisha Ufairah 2408107010084
+Zanna Zikraana 2408107010094
+
 # 🎯 Trivia Quiz Multiplayer TCP/UDP
 **Proyek Komunikasi Data 2026**
 
